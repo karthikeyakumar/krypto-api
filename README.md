@@ -1,7 +1,7 @@
 # krypto-api
 
   ##   Language used
-- ##Python
+- Python
 ### Libraries used
 -  Flask
 - Requests
